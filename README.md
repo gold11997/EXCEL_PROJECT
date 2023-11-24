@@ -2,14 +2,14 @@
 ## Employee Performance:
 This is an hypothetical insights drawn from the provided weekly sales data
 
-Weekly Sales Report
-EMP NAME	Mon	Tue	Wed	Thu	Fri	Total
-Abraham	25	4	6	7	3	45
-Benson	30	50	6	5	7	98
-Golden	10	9	7	5	3	34
-Imiebam	10	4	4	9	3	30
-Tamuno	10	3	29	5	56	103
-Faith	40	14	11	12	20	97
+| EMP NAME  | Mon | Tue | Wed | Thu | Fri | Total |
+|-----------|-----|-----|-----|-----|-----|-------|
+| Abraham   |  25 |   4 |   6 |   7 |   3 |    45 |
+| Benson    |  30 |  50 |   6 |   5 |   7 |    98 |
+| Golden    |  10 |   9 |   7 |   5 |   3 |    34 |
+| Imiebam   |  10 |   4 |   4 |   9 |   3 |    30 |
+| Tamuno    |  10 |   3 |  29 |   5 |  56 |   103 |
+| Faith     |  40 |  14 |  11 |  12 |  20 |    97 |
 
 ## Insights
 1.	**Employee Performance:**
@@ -31,7 +31,6 @@ The total weekly sales for the team are 407 units, indicating a healthy and prod
 These insights are based on a hypothetical analysis of the data and can be used to identify areas of success, potential improvement, and strategic opportunities for the sales team. It's important to note that these are just examples, and the actual interpretation may vary based on specific business goals and context.
 ## Sales Chart
 ![weekly_sales_report_chart](https://github.com/gold11997/EXCEL_PROJECT/assets/146364037/e17704dc-3fa9-4442-aee8-689f78433b77)
-
 
 ## Author
 - **Benson Abraham**
